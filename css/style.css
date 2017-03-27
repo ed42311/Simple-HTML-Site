@@ -1,3 +1,27 @@
-.myDiv{
-  
+#container {
+  margin: 2em;
+  padding: 1em;
+}
+.secondRow {
+  width: 25em;
+  margin: 0 auto;
+}
+.thirdRow {
+  display: inline-block;
+  width: 300px;
+  height: 100px;
+  margin: 1em;
+}
+#oneOfOne {
+  width: 20em;
+  margin: 0 auto;
+}
+#oneOfTwo {
+  float: right;
+}
+#twoOfTwo {
+  float: left;
+}
+.clear {
+  clear:both;
 }
